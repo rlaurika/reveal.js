@@ -2,7 +2,6 @@
 module.exports = function(grunt) {
 	var port = grunt.option('port') || 8080;
 	var root = grunt.option('root') || '.';
-	var hostname = grunt.option('hostname') || '*';
 
 	if (!Array.isArray(root)) root = [root];
 
@@ -96,7 +95,7 @@ module.exports = function(grunt) {
 		connect: {
 			server: {
 				options: {
-					hostname: hostname,
+					hostname: '0.0.0.0',
 					port: port,
 					base: root,
 					livereload: true,
