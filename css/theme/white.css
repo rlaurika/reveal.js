@@ -55,9 +55,10 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; 
-  padding-top: 250px; }
-
+  color: #EEE;
+  font-size: 2.5em;
+  padding-left: 400px;
+  padding-top: 380px; }
 .reveal h2 {
   font-size: 1.6em; }
 
