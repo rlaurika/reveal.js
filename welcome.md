@@ -5,10 +5,9 @@
   * Break at some suitable time
 * Afternoon: More technical topics 
   * 12:00 - 13:00 Lunch (own expense)
-  * 13:00 - 14:30 Terminology, architecture and CLI hands-on
-  * 14:30 - 14:45 Break
-  * 14:45 - 15:15 Cloud native apps
-  * 15:15 - 17:00 CLI hands-on, porting own apps, etc.
+  * 13:00 - 14:00 Terminology, architecture and cloud native apps
+  * 14:00 - 14:15 Break
+  * 14:15 - 17:00 CLI hands-on
 * Slides: []()
 * Exercises: [Digipalvelutehdas GitHub](https://github.com/Digipalvelutehdas/container-course-material)
 * Chat: []()
